@@ -1,0 +1,4 @@
+lxml==3.7.3
+pafy==0.5.3.1
+requests==2.13.0
+youtube-dl==2017.3.7
