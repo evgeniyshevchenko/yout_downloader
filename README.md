@@ -16,7 +16,7 @@ $ pip install -r requirements.txt
   $ python downloader.py
   ```
 
-  - Enter link for playlist for downloade.
+  - Enter link for downloading of playlist.
 
   > Example:
   > https://www.youtube.com/playlist?list=PLyIeuhp1AcC3ShwZuFqkmjKHGUDqswtTO
